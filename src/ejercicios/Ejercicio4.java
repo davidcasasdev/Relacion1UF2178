@@ -20,6 +20,7 @@ public class Ejercicio4 {
 		double farenheit = 32 +(9/5.0*centigrados);
 		System.out.printf("%.2f grados centgrados son %.2f grados farenheit",
 				centigrados,farenheit);
+		teclado.close();
 
 	}
 

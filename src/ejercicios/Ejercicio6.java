@@ -19,5 +19,6 @@ public class Ejercicio6 {
 		
 		float mSg=kmH*1000/3600;
 		System.out.printf("%.2f Km/h son %.2f m/sg", kmH,mSg);
+		entrada.close();
 	}
 }

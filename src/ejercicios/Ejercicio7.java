@@ -24,6 +24,7 @@ public class Ejercicio7 {
 				);
 		System.out.printf("La hipotenusa de un triángulo de catetos "
 				+ "%.2f y %.2f es %.2f", cat1, cat2, hip);
+		teclado.close();
 	}
 
 }

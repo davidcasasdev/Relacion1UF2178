@@ -27,7 +27,7 @@ public class Ejercicio5 {
 		
 		System.out.printf("El área es %.2f y el perímetro"
 				+ " es %.2f", area, longitud);
-		
+		teclado.close();
 
 	}
 

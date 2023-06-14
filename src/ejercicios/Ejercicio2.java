@@ -12,6 +12,7 @@ public class Ejercicio2 {
 		String nombre = teclado.nextLine();
 		
 		System.out.printf("Buenos días, %s\n",nombre);
+		teclado.close();
 	}
 
 }

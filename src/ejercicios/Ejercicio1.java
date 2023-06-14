@@ -16,7 +16,7 @@ public class Ejercicio1 {
 		
 		System.out.println("El numero 1 es "+num1
 				+ " y el número 2 es "+ num2);
-
+		teclado.close();
 	}
 
 }

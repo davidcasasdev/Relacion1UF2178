@@ -19,5 +19,6 @@ public class Ejercicio3 {
 		
 		System.out.printf("tu número es %d, el doble es %d"
 				+ " y el el triple es %d",num,num*2,num*3);
+		entrada.close();
 	}
 }
