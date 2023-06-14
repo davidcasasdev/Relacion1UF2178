@@ -40,7 +40,7 @@ public class Ejercicio14 {
 		nSuerte = cifra1+cifra2+cifra3+cifra4;
 		
 		System.out.println("Tú número de la suerte es "+nSuerte);
-
+		teclado.close();
 	}
 
 }
